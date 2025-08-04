@@ -14,5 +14,5 @@ Aside from coding, I also value teamwork and enjoy collaborating with others on 
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,postgres,postman,tailwind,java,mysql,debian,figma,git,php,vuejs&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,java,mysql,figma,git,php)](https://skillicons.dev)
 
